@@ -1,1 +1,2 @@
 # Marmeto-Shopping-Assignment
+"Introducing a streamlined shopping experience! Our shopping page features intuitive color and size selection options. With just a click, add your desired item to the cart, where you'll receive instant confirmation of your chosen color and size. Enjoy hassle-free shopping and effortless decision-making with our user-friendly interface. Explore our range and enhance your shopping journey today!"
